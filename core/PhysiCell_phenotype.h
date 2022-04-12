@@ -77,9 +77,10 @@
 
 #include "../modules/PhysiCell_settings.h"
 
+namespace PhysiCell{
+
 using namespace BioFVM; 
 
-namespace PhysiCell{
 class Cell;
 class Cycle_Model; 
 class Phenotype; 

@@ -79,9 +79,10 @@
 
 #include "./PhysiCell_standard_models.h" 
 
+namespace PhysiCell{
+
 using namespace BioFVM; 
 
-namespace PhysiCell{
 class Cell_Container;
 
 class Cell_Parameters

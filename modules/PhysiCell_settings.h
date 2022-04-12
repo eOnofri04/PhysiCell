@@ -83,9 +83,9 @@
 #include "../core/PhysiCell_constants.h" 
 #include "../core/PhysiCell_utilities.h"
 
-using namespace BioFVM; 
-
 namespace PhysiCell{
+
+using namespace BioFVM; 
  	
 extern pugi::xml_node physicell_config_root; 
 
